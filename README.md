@@ -29,7 +29,7 @@ This option downloads and installs the latest version of GameLoop directly from 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/GameLoopManagementScript.git
+   git clone https://github.com/pk-striker/GameLoopManagementScript.git
    cd GameLoopManagementScript
    ```
 
