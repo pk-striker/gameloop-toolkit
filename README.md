@@ -19,7 +19,7 @@ This repository contains a batch script designed to manage various tasks related
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/GameLoopManagementScript.git
+   git clone https://github.com/pk-striker/GameLoopManagementScript.git
    cd GameLoopManagementScript
    ```
 
