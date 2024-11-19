@@ -20,7 +20,7 @@ goto menu
 
 :start_gameloop
 echo Starting GameLoop...
-start "C:\Program Files\TxGameAssistant\ui\AndroidEmulatorEx.exe" -vm 100
+start "" "D:\gameloop\TxGameAssistant\ui\AndroidEmulatorEx.exe"
 goto menu
 
 :kill_gameloop
